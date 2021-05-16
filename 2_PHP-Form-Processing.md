@@ -412,5 +412,5 @@ http://php.net/
 
 All available via books 24x7 through the library PHP for Absolute Beginners by  Thomas Blom Hansen and Jason Lengstorf
 
-* Beginning PHP 5.3 by  Matt Doyle
+* Beginning PHP 5 by  Matt Doyle
 * Beginning PHP and MySQL: From Novice to Professional, Fourth Edition by  W. Jason Gilmore.
