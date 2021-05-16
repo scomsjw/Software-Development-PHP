@@ -59,7 +59,7 @@ Units of Gas:0 to 500 Cost:£10
 Units of Gas:501 to 1000 Cost:£10 + 5p for each unit over 500
 Units of Gas:Over 1000 Cost:£35 + 3p for each unit over 1000
 
-The following PHP code assigns a random number value to the variable $units. Uncomment the code and write some additional PHP code that will calculate and output the cost of a gas bill based on the value of $units.
+The following PHP code will assign a random number value to the variable $units. Uncomment the code and write some additional PHP code that will calculate and output the cost of a gas bill based on the value of $units.
 */
 
 // $units=rand(0,2000);
