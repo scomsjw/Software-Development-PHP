@@ -30,7 +30,7 @@ This example simply prints the text *Welcome to PHP*. Here are some key points.
 * Upload to web server
 * Open the page in a browser
 
-## Variables and data types
+## Variables and data type
 In PHP all variables start with the dollar sign ($)
 ```php
 <?php
